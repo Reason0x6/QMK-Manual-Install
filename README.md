@@ -1,3 +1,3 @@
 # QMK-Manual-Install
 
-Simply download & unzip folder into `../qmk_firmware/keyboards/<RosesLite>` 
+Simply download & unzip the folder into `../qmk_firmware/keyboards/<RosesLite>` 
